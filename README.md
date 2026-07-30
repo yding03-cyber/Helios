@@ -20,7 +20,8 @@ This repository is under active development. Many features are TODO.
 - [ ] **helios/core/scheduler.py:5** - add retry policy with backoff
 - [ ] **helios/io/readers.py:4** - infer column dtypes automatically
 - [ ] **helios/io/readers.py:5** - stream large files in chunks
-- [ ] **helios/io/readers_OLD.py:4** - delete this stale module
+- [ ] **helios/transform/mapper.py:4** - vectorize the map operation
+- [ ] **helios/transform/mapper.py:5** - cache compiled expressions
 
 ## 🤝 Contributing
 
